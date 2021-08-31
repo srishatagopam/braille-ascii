@@ -5,7 +5,8 @@ Converts input image to ASCII art using braille glyph characters via command lin
 - Saving to .txt file
 - ASCII art for inverted input image
 
-If a threshold value is not manually set, an automatic thresholding algorithm is used instead (Otsu's method).
+If a threshold value is not manually set, an automatic thresholding algorithm is used instead (Otsu's method). Small width sizes sacrifices detail with automatic thresholding, 
+so testing different threshold values may be preferred in that case.
 
 # Usage
 Here are the following command line arguments to use:
