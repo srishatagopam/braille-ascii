@@ -16,3 +16,8 @@ Here are the following command line arguments to use:
 ```
 $python braille.py --img 'filepath/example.jpg' --width 30 --save 'ascii.txt' --inv True --thresh 150
 ```
+## Input image
+![alt text](https://github.com/srishatagopam/braille-ascii/blob/main/zebra.jpg?raw=true)
+
+## Output image
+![alt text](https://github.com/srishatagopam/braille-ascii/blob/main/zebra-ascii.JPG?raw=true)
